@@ -1,3 +1,6 @@
+[![npm package](https://img.shields.io/npm/v/radium.svg)](https://www.npmjs.org/package/radium)
+[![dependency status](https://img.shields.io/david/FormidableLabs/radium.svg)](https://david-dm.org/FormidableLabs/radium)
+
 # Radium
 
 ```
